@@ -6475,3 +6475,32 @@
   width:375px;
   white-space:nowrap;
 }
+#u403_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:42px;
+  height:100px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u403 {
+  position:absolute;
+  left:39px;
+  top:1342px;
+  width:42px;
+  height:100px;
+}
+#u404 {
+  position:absolute;
+  left:2px;
+  top:42px;
+  width:38px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
